@@ -1,0 +1,16 @@
+{
+  "name": "hwairbnb",
+  "version": "1.0.0",
+  "description": "building airbnb w-js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/dayvirus/hwairbnb.git",
+  "author": "stevenjohnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayvirus/hwairbnb/issues"
+  },
+  "homepage": "https://github.com/dayvirus/hwairbnb#readme"
+}
